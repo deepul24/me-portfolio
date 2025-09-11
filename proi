@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <link rel="stylesheet" href="index1.css">
+    <link rel="stylesheet" href="aboutus.html">
+    <link rel="stylesheet" href="cart.html">
+    <link rel="stylesheet" href="order.html">
+    <link rel="stylesheet" href="customer.html">
+</head>
+<body>
+    <div class="link">
+    <a href="index1.html">Home</a>
+    <a href="aboutus.html">about</a>
+    <a href="cart.html">cart</a>
+    <a href="order.html">order</a>
+    <a href="customer.html">customer</a>
+</div>
+      </nav>
+    <div class="left">
+    Braj meethas</div>
+<footer class="foot">
+    <p>@2025 BrajMeethasAll rights reserved</p>
+</footer>
+</body>
+</html>
